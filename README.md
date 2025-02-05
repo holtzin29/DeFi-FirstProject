@@ -154,7 +154,8 @@ To contribute:
 4. Test your changes
 5. Submit a pull request
 
----
+# Inspired by:
+- Cyfrin DeFi lessons.
 
 ## **License**
 - MIT
