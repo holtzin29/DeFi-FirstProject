@@ -157,3 +157,4 @@ To contribute:
 ---
 
 ## **License**
+- MIT
